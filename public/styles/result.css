@@ -1,0 +1,10 @@
+.main-block__content h2 {
+	padding-bottom: 0.5rem;
+}
+.content-text {
+	padding-bottom: 1rem;
+}
+a {
+	text-decoration: none;
+	color: blue;
+}
